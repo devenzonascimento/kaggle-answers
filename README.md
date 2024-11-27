@@ -11,3 +11,24 @@ Sempre que iniciar os exercicios de um novo Modulo, você vai se deparar com ess
 ![alt text](public/exemplo4.PNG)
 
 ## Agora basta procurar as respostas de acordo com o modulo que você se encontra atualmente. Espero ter ajudado! 
+
+
+
+Ciclo de desenvolvimento
+Estudo de viabilidade, requisitos funcionais, especificação do sistema, SO, e melhoria do Sistema
+
+
+A,B,C
+SaaS, PaaS, IaaS
+
+
+Exemplo I, II, III
+G2C, G2C,B2C,B2B
+
+
+Afirmar
+Fidelidade dos Dados em relacao as informações 
+
+
+Auditoria
+Atender requisitos da legislacao vigente, na esfera estadual
