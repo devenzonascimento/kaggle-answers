@@ -18,6 +18,10 @@ Ciclo de desenvolvimento
 Estudo de viabilidade, requisitos funcionais, especificação do sistema, SO, e melhoria do Sistema
 
 
+Julgue os prox itens
+Uma solução de infraestrutura com serviço
+
+
 A,B,C
 SaaS, PaaS, IaaS
 
